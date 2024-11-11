@@ -86,7 +86,7 @@ function Home() {
     cruncyData();
 
 
-  }, [coins ]);
+  }, []);
 
   return (
 
